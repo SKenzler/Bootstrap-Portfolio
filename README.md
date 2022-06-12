@@ -52,7 +52,7 @@
 ### Built With
 * [HTML5](https://html.com/html5)
 * [CSS3](https://www.w3.org/)
-* [Bootsrap](https://getbootstrap.com/)
+* [Bootstrap](https://getbootstrap.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
