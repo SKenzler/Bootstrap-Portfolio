@@ -2,20 +2,8 @@
 
   <p align="center">
     A Porfolio of current work developed using Bootsrap 5
-    <br />
-    <a href="https://github.com/github_skenzler/live_run_sheet"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_skenzler/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_skenzler/live_run_sheet/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
-</div>
-
-
-
+  
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -47,7 +35,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">Bootstrap Portfolio is a website displaying my education, work experience, skills, design examples and contact details
+in one simple, effective location.
+(<a href="#top">back to top</a>)</p>
 
 ### Built With
 * [HTML5](https://html.com/html5)
