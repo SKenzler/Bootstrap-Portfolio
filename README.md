@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="right">Bootstrap Portfolio is a website displaying my education, work experience, skills, design examples and contact details
+<p align="left">Bootstrap Portfolio is a website displaying my education, work experience, skills, design examples and contact details
 in one simple, effective location.
 (<a href="#top">back to top</a>)</p>
 
