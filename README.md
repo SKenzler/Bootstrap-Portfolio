@@ -25,4 +25,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Github](https://github.com)
 * [Figma](https://www.figma.com)
 * [VS Code](https://code.visualstudio.com)
-* [Bootstrap 5} (https://getbootstrap.com/)
+* [Bootstrap 5](https://getbootstrap.com/)
