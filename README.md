@@ -1,10 +1,10 @@
 # BOOTSTRAP 5 PORTFOLIO
 
-![Live Run Sheet Screenshot](imagesPortfolio_Screenshot.jpg)
+![Porfolio Screenshot](images/Portfolio_Screenshot.jpg)
 
 ## About The Project
 
-An online portfolio of work.
+An online portfolio of work built with Bootstrap 5. The porfolio is responsive and includes examples of work. The webpage enables the user to download a copy of my resume. There are also links to resources commonly used for inspiration and learning. 
 
 ## Built With
 
